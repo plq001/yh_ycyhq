@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         【最新可用！】淘宝天猫隐藏优惠券
 // @namespace    http://tbtmycyhq.yhq
-// @version      1.3
+// @version      1.4
 // @description  淘宝/天猫购物助手，在浏览淘宝天猫的时候自动显示当前商品是否有粉丝福利购优惠(内部优惠券、隐藏优惠券、内部券、隐藏券)，让你买的比别人更便宜！
 // @author       无声风雪
 // @match             *://*.taobao.com/*
